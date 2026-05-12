@@ -168,7 +168,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <li><strong>原因剖析</strong>：这在极低比特量化中偶尔会发生，通常被视为一种<strong>正则化效应（Regularization effect）</strong>。量化过程抹平了一些模型在训练时拟合的“噪声”，反而让它在某些特定的选择题任务上泛化能力更强。当然，这不代表 Q4 的绝对智商高于 Q8，但在特定应用场景下，它确实能给你“免费的午餐”。</li>
 </ul>
 <h2>4. Pareto 分析：谁在最优前沿？</h2>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/6153e74c-3b56-45c7-b8c6-9ca43498d7f8"><img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/6153e74c-3b56-45c7-b8c6-9ca43498d7f8" style="max-width: 100%; height: auto; max-height: 600px;; aspect-ratio: 1000 / 600; background-color: var(--bgColor-muted); border-radius: 6px; display: block" class="js-gh-image-fallback"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/6153e74c-3b56-45c7-b8c6-9ca43498d7f8"><img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/6153e74c-3b56-45c7-b8c6-9ca43498d7f8" style="max-width: 100%; height: auto; max-height: 600px;; aspect-ratio: 1000 / 600; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a></p>
 <p>通过散点图可以清晰地看到，<strong>Qwen3-0.6B-Q4_K_M.gguf 在精度（综合任务得分）和速度（解码吞吐量）两个维度上，都严格优于 Q8_0 基准</strong>。</p>
 <ul>
 <li><strong>罕见的“无损”优化</strong>：在LLM量化过程中，通常的 trade-off 是牺牲精度来换取速度和VRAM的减少。但在这个 0.6B 小模型和这两个特定下游任务上，Q4_K_M 变体实现了一个“双赢”局面：不仅速度提升了 5%，而且综合得分也提升了。</li>
