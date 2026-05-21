@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brue Leo's Blog</title><link>https://Ethan-a2.github.io</link><description>Freedom is not free.</description><copyright>Brue Leo's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/61342241?v=4&amp;size=64</url><title>avatar</title><link>https://Ethan-a2.github.io</link></image><lastBuildDate>Thu, 21 May 2026 11:02:15 +0000</lastBuildDate><managingEditor>Brue Leo's Blog</managingEditor><ttl>60</ttl><webMaster>Brue Leo's Blog</webMaster><item><title>floorplanner快速入门</title><link>https://Ethan-a2.github.io/post/floorplanner-kuai-su-ru-men.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brue Leo's Blog</title><link>https://Ethan-a2.github.io</link><description>Freedom is not free.</description><copyright>Brue Leo's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/61342241?v=4&amp;size=64</url><title>avatar</title><link>https://Ethan-a2.github.io</link></image><lastBuildDate>Thu, 21 May 2026 11:03:01 +0000</lastBuildDate><managingEditor>Brue Leo's Blog</managingEditor><ttl>60</ttl><webMaster>Brue Leo's Blog</webMaster><item><title>blender建筑入门</title><link>https://Ethan-a2.github.io/post/blender-jian-zhu-ru-men.html</link><description># 效果图
+
+&lt;img width='889' height='745' alt='Image' src='https://github.com/user-attachments/assets/ea23e894-cfb1-41a6-8363-201edf375980' /&gt;
+
+
+https://github.com/Ethan-a2/building/blob/main/clover.blend
+
+原文件
+
+
+# Archipack
+- 这个插件好用，但是只支持旧版本。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/blender-jian-zhu-ru-men.html</guid><pubDate>Thu, 21 May 2026 11:02:28 +0000</pubDate></item><item><title>floorplanner快速入门</title><link>https://Ethan-a2.github.io/post/floorplanner-kuai-su-ru-men.html</link><description>
 
 # 效果图
 - 花了十分钟，基于一个现在的图片描出来的。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/floorplanner-kuai-su-ru-men.html</guid><pubDate>Thu, 21 May 2026 11:01:46 +0000</pubDate></item><item><title>sketchup快速入门</title><link>https://Ethan-a2.github.io/post/sketchup-kuai-su-ru-men.html</link><description>
