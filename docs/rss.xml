@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brue Leo's Blog</title><link>https://Ethan-a2.github.io</link><description>Freedom is not free.</description><copyright>Brue Leo's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/61342241?v=4&amp;size=64</url><title>avatar</title><link>https://Ethan-a2.github.io</link></image><lastBuildDate>Thu, 21 May 2026 11:00:09 +0000</lastBuildDate><managingEditor>Brue Leo's Blog</managingEditor><ttl>60</ttl><webMaster>Brue Leo's Blog</webMaster><item><title>AutoCAD快速入门</title><link>https://Ethan-a2.github.io/post/AutoCAD-kuai-su-ru-men.html</link><description># 成果
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brue Leo's Blog</title><link>https://Ethan-a2.github.io</link><description>Freedom is not free.</description><copyright>Brue Leo's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/61342241?v=4&amp;size=64</url><title>avatar</title><link>https://Ethan-a2.github.io</link></image><lastBuildDate>Thu, 21 May 2026 11:01:00 +0000</lastBuildDate><managingEditor>Brue Leo's Blog</managingEditor><ttl>60</ttl><webMaster>Brue Leo's Blog</webMaster><item><title>sketchup快速入门</title><link>https://Ethan-a2.github.io/post/sketchup-kuai-su-ru-men.html</link><description>
+
+# 效果图
+- 花了大概一小时
+
+&lt;img width='968' height='512' alt='Image' src='https://github.com/user-attachments/assets/0db95272-58ad-4b0f-b1cb-ee1ad5c96eb6' /&gt;
+
+原始文件
+https://github.com/Ethan-a2/building/blob/main/startup.skp
+
+# 版本
+- SketchUp 2025
+
+
+# 教程
+- [10分钟快速上手SU(SketchUp)，SU(SketchUp)快速入门，SU(SketchUp)最精简入门教程【小豆蕾】\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1y34y1C7u1/?spm_id_from=333.1387.homepage.video_card.click&amp;vd_source=6cef4f8261b2534d7472868c34f240ea)
+
+
+# 遇到问题及解决
+- 推不了窗户，是因为撞到里面的内墙上了。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/sketchup-kuai-su-ru-men.html</guid><pubDate>Thu, 21 May 2026 11:00:27 +0000</pubDate></item><item><title>AutoCAD快速入门</title><link>https://Ethan-a2.github.io/post/AutoCAD-kuai-su-ru-men.html</link><description># 成果
 - 参考后面视频教程，大概花了两个小时。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/AutoCAD-kuai-su-ru-men.html</guid><pubDate>Thu, 21 May 2026 10:59:42 +0000</pubDate></item><item><title>Unsloth微调FunctionGemma支持think显性推理与多轮工具调用</title><link>https://Ethan-a2.github.io/post/Unsloth-wei-diao-FunctionGemma-zhi-chi-think-xian-xing-tui-li-yu-duo-lun-gong-ju-diao-yong.html</link><description>在端侧 AI 和轻量化模型大行其道的今天，如何在极小的参数规模（如 270M）下实现复杂的工具调用（Tool-calling）并引入类似深度推理（Reasoning）的能力？
 本文将带你通过 Unsloth 框架，使用 FunctionGemma-270m 模型进行高效微调。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/Unsloth-wei-diao-FunctionGemma-zhi-chi-think-xian-xing-tui-li-yu-duo-lun-gong-ju-diao-yong.html</guid><pubDate>Sun, 26 Apr 2026 12:55:25 +0000</pubDate></item><item><title>实战SmolLM2-135M微调-打造文本转Emoji神器</title><link>https://Ethan-a2.github.io/post/shi-zhan-SmolLM2-135M-wei-diao---da-zao-wen-ben-zhuan-Emoji-shen-qi.html</link><description>在大型语言模型（LLM）动辄百亿参数的今天，轻量级模型（Small Language Models, SLMs）正变得越来越受欢迎。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/shi-zhan-SmolLM2-135M-wei-diao---da-zao-wen-ben-zhuan-Emoji-shen-qi.html</guid><pubDate>Fri, 10 Apr 2026 14:24:50 +0000</pubDate></item><item><title>llama.cpp_FlashAttention_GQA与YaRN 长上下文的提速魔法</title><link>https://Ethan-a2.github.io/post/llama.cpp_FlashAttention_GQA-yu-YaRN%20-chang-shang-xia-wen-de-ti-su-mo-fa.html</link><description># llama.cpp 性能实测：Flash Attention、GQA 与 YaRN 长上下文的提速魔法
 
