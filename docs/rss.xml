@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brue Leo's Blog</title><link>https://Ethan-a2.github.io</link><description>Freedom is not free.</description><copyright>Brue Leo's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/61342241?v=4&amp;size=64</url><title>avatar</title><link>https://Ethan-a2.github.io</link></image><lastBuildDate>Wed, 03 Jun 2026 22:21:22 +0000</lastBuildDate><managingEditor>Brue Leo's Blog</managingEditor><ttl>60</ttl><webMaster>Brue Leo's Blog</webMaster><item><title>pot-desktop字典支持Ubuntu26.04</title><link>https://Ethan-a2.github.io/post/pot-desktop-zi-dian-zhi-chi-Ubuntu26.04.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brue Leo's Blog</title><link>https://Ethan-a2.github.io/blog</link><description>Freedom is not free.</description><copyright>Brue Leo's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/61342241?v=4&amp;size=64</url><title>avatar</title><link>https://Ethan-a2.github.io/blog</link></image><lastBuildDate>Wed, 10 Jun 2026 18:30:43 +0000</lastBuildDate><managingEditor>Brue Leo's Blog</managingEditor><ttl>60</ttl><webMaster>Brue Leo's Blog</webMaster><item><title>pot-desktop字典支持Ubuntu26.04</title><link>https://Ethan-a2.github.io/blog/post/pot-desktop-zi-dian-zhi-chi-Ubuntu26.04.html</link><description>
 # release
 - https://github.com/Ethan-a2/saladict/releases
 
 
 # 原因
-- 构建脚本通过 pkg-config 查找 javascriptcoregtk-4.0和webkit2gtk-4.0，但 Ubuntu 26.04 只有 javascriptcoregtk-4.1和webkitgtk-4.1。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/pot-desktop-zi-dian-zhi-chi-Ubuntu26.04.html</guid><pubDate>Wed, 03 Jun 2026 22:20:54 +0000</pubDate></item><item><title>Eagle-2.16x-acceleration-in-5-minutes</title><link>https://Ethan-a2.github.io/post/Eagle-2.16x-acceleration-in-5-minutes.html</link><description>
+- 构建脚本通过 pkg-config 查找 javascriptcoregtk-4.0和webkit2gtk-4.0，但 Ubuntu 26.04 只有 javascriptcoregtk-4.1和webkitgtk-4.1。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/pot-desktop-zi-dian-zhi-chi-Ubuntu26.04.html</guid><pubDate>Wed, 03 Jun 2026 22:20:54 +0000</pubDate></item><item><title>Eagle-2.16x-acceleration-in-5-minutes</title><link>https://Ethan-a2.github.io/blog/post/Eagle-2.16x-acceleration-in-5-minutes.html</link><description>
 # 基于1层Llama草稿模型实现2.16推测解码加速
-- 在5分钟内实现了2.16x的推测解码加速比。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/Eagle-2.16x-acceleration-in-5-minutes.html</guid><pubDate>Tue, 02 Jun 2026 22:35:09 +0000</pubDate></item><item><title>blender建筑入门</title><link>https://Ethan-a2.github.io/post/blender-jian-zhu-ru-men.html</link><description># 效果图
+- 在5分钟内实现了2.16x的推测解码加速比。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/Eagle-2.16x-acceleration-in-5-minutes.html</guid><pubDate>Tue, 02 Jun 2026 22:35:09 +0000</pubDate></item><item><title>blender建筑入门</title><link>https://Ethan-a2.github.io/blog/post/blender-jian-zhu-ru-men.html</link><description># 效果图
 
 &lt;img width='889' height='745' alt='Image' src='https://github.com/user-attachments/assets/ea23e894-cfb1-41a6-8363-201edf375980' /&gt;
 
@@ -18,10 +18,10 @@ https://github.com/Ethan-a2/building/blob/main/clover.blend
 
 
 # Archipack
-- 这个插件好用，但是只支持旧版本。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/blender-jian-zhu-ru-men.html</guid><pubDate>Thu, 21 May 2026 11:02:28 +0000</pubDate></item><item><title>floorplanner快速入门</title><link>https://Ethan-a2.github.io/post/floorplanner-kuai-su-ru-men.html</link><description>
+- 这个插件好用，但是只支持旧版本。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/blender-jian-zhu-ru-men.html</guid><pubDate>Thu, 21 May 2026 11:02:28 +0000</pubDate></item><item><title>floorplanner快速入门</title><link>https://Ethan-a2.github.io/blog/post/floorplanner-kuai-su-ru-men.html</link><description>
 
 # 效果图
-- 花了十分钟，基于一个现在的图片描出来的。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/floorplanner-kuai-su-ru-men.html</guid><pubDate>Thu, 21 May 2026 11:01:46 +0000</pubDate></item><item><title>sketchup快速入门</title><link>https://Ethan-a2.github.io/post/sketchup-kuai-su-ru-men.html</link><description>
+- 花了十分钟，基于一个现在的图片描出来的。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/floorplanner-kuai-su-ru-men.html</guid><pubDate>Thu, 21 May 2026 11:01:46 +0000</pubDate></item><item><title>sketchup快速入门</title><link>https://Ethan-a2.github.io/blog/post/sketchup-kuai-su-ru-men.html</link><description>
 
 # 效果图
 - 花了大概一小时
@@ -40,17 +40,17 @@ https://github.com/Ethan-a2/building/blob/main/startup.skp
 
 
 # 遇到问题及解决
-- 推不了窗户，是因为撞到里面的内墙上了。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/sketchup-kuai-su-ru-men.html</guid><pubDate>Thu, 21 May 2026 11:00:27 +0000</pubDate></item><item><title>AutoCAD快速入门</title><link>https://Ethan-a2.github.io/post/AutoCAD-kuai-su-ru-men.html</link><description># 成果
-- 参考后面视频教程，大概花了两个小时。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/AutoCAD-kuai-su-ru-men.html</guid><pubDate>Thu, 21 May 2026 10:59:42 +0000</pubDate></item><item><title>Unsloth微调FunctionGemma支持think显性推理与多轮工具调用</title><link>https://Ethan-a2.github.io/post/Unsloth-wei-diao-FunctionGemma-zhi-chi-think-xian-xing-tui-li-yu-duo-lun-gong-ju-diao-yong.html</link><description>在端侧 AI 和轻量化模型大行其道的今天，如何在极小的参数规模（如 270M）下实现复杂的工具调用（Tool-calling）并引入类似深度推理（Reasoning）的能力？
-本文将带你通过 Unsloth 框架，使用 FunctionGemma-270m 模型进行高效微调。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/Unsloth-wei-diao-FunctionGemma-zhi-chi-think-xian-xing-tui-li-yu-duo-lun-gong-ju-diao-yong.html</guid><pubDate>Sun, 26 Apr 2026 12:55:25 +0000</pubDate></item><item><title>实战SmolLM2-135M微调-打造文本转Emoji神器</title><link>https://Ethan-a2.github.io/post/shi-zhan-SmolLM2-135M-wei-diao---da-zao-wen-ben-zhuan-Emoji-shen-qi.html</link><description>在大型语言模型（LLM）动辄百亿参数的今天，轻量级模型（Small Language Models, SLMs）正变得越来越受欢迎。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/shi-zhan-SmolLM2-135M-wei-diao---da-zao-wen-ben-zhuan-Emoji-shen-qi.html</guid><pubDate>Fri, 10 Apr 2026 14:24:50 +0000</pubDate></item><item><title>llama.cpp_FlashAttention_GQA与YaRN 长上下文的提速魔法</title><link>https://Ethan-a2.github.io/post/llama.cpp_FlashAttention_GQA-yu-YaRN%20-chang-shang-xia-wen-de-ti-su-mo-fa.html</link><description># llama.cpp 性能实测：Flash Attention、GQA 与 YaRN 长上下文的提速魔法
+- 推不了窗户，是因为撞到里面的内墙上了。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/sketchup-kuai-su-ru-men.html</guid><pubDate>Thu, 21 May 2026 11:00:27 +0000</pubDate></item><item><title>AutoCAD快速入门</title><link>https://Ethan-a2.github.io/blog/post/AutoCAD-kuai-su-ru-men.html</link><description># 成果
+- 参考后面视频教程，大概花了两个小时。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/AutoCAD-kuai-su-ru-men.html</guid><pubDate>Thu, 21 May 2026 10:59:42 +0000</pubDate></item><item><title>Unsloth微调FunctionGemma支持think显性推理与多轮工具调用</title><link>https://Ethan-a2.github.io/blog/post/Unsloth-wei-diao-FunctionGemma-zhi-chi-think-xian-xing-tui-li-yu-duo-lun-gong-ju-diao-yong.html</link><description>在端侧 AI 和轻量化模型大行其道的今天，如何在极小的参数规模（如 270M）下实现复杂的工具调用（Tool-calling）并引入类似深度推理（Reasoning）的能力？
+本文将带你通过 Unsloth 框架，使用 FunctionGemma-270m 模型进行高效微调。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/Unsloth-wei-diao-FunctionGemma-zhi-chi-think-xian-xing-tui-li-yu-duo-lun-gong-ju-diao-yong.html</guid><pubDate>Sun, 26 Apr 2026 12:55:25 +0000</pubDate></item><item><title>实战SmolLM2-135M微调-打造文本转Emoji神器</title><link>https://Ethan-a2.github.io/blog/post/shi-zhan-SmolLM2-135M-wei-diao---da-zao-wen-ben-zhuan-Emoji-shen-qi.html</link><description>在大型语言模型（LLM）动辄百亿参数的今天，轻量级模型（Small Language Models, SLMs）正变得越来越受欢迎。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/shi-zhan-SmolLM2-135M-wei-diao---da-zao-wen-ben-zhuan-Emoji-shen-qi.html</guid><pubDate>Fri, 10 Apr 2026 14:24:50 +0000</pubDate></item><item><title>llama.cpp_FlashAttention_GQA与YaRN 长上下文的提速魔法</title><link>https://Ethan-a2.github.io/blog/post/llama.cpp_FlashAttention_GQA-yu-YaRN%20-chang-shang-xia-wen-de-ti-su-mo-fa.html</link><description># llama.cpp 性能实测：Flash Attention、GQA 与 YaRN 长上下文的提速魔法
 
-在本地部署大语言模型（LLM）时，**推理速度**和**上下文长度**是我们最关心的核心指标。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/llama.cpp_FlashAttention_GQA-yu-YaRN%20-chang-shang-xia-wen-de-ti-su-mo-fa.html</guid><pubDate>Tue, 07 Apr 2026 12:44:14 +0000</pubDate></item><item><title>深度实测Llama.cpp-KVCache量化的精度-性能与显存博弈</title><link>https://Ethan-a2.github.io/post/shen-du-shi-ce-Llama.cpp-KVCache-liang-hua-de-jing-du---xing-neng-yu-xian-cun-bo-yi.html</link><description>
-在端侧或显存受限的设备上运行大模型时，随着上下文长度（Context Length）的增加，KV Cache 占用的显存会呈线性增长，甚至超过模型权重本身的占用。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/shen-du-shi-ce-Llama.cpp-KVCache-liang-hua-de-jing-du---xing-neng-yu-xian-cun-bo-yi.html</guid><pubDate>Mon, 06 Apr 2026 14:02:25 +0000</pubDate></item><item><title>Speculative-Decoding-llama.cpp推测解码</title><link>https://Ethan-a2.github.io/post/Speculative-Decoding-llama.cpp-tui-ce-jie-ma.html</link><description>
+在本地部署大语言模型（LLM）时，**推理速度**和**上下文长度**是我们最关心的核心指标。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/llama.cpp_FlashAttention_GQA-yu-YaRN%20-chang-shang-xia-wen-de-ti-su-mo-fa.html</guid><pubDate>Tue, 07 Apr 2026 12:44:14 +0000</pubDate></item><item><title>深度实测Llama.cpp-KVCache量化的精度-性能与显存博弈</title><link>https://Ethan-a2.github.io/blog/post/shen-du-shi-ce-Llama.cpp-KVCache-liang-hua-de-jing-du---xing-neng-yu-xian-cun-bo-yi.html</link><description>
+在端侧或显存受限的设备上运行大模型时，随着上下文长度（Context Length）的增加，KV Cache 占用的显存会呈线性增长，甚至超过模型权重本身的占用。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/shen-du-shi-ce-Llama.cpp-KVCache-liang-hua-de-jing-du---xing-neng-yu-xian-cun-bo-yi.html</guid><pubDate>Mon, 06 Apr 2026 14:02:25 +0000</pubDate></item><item><title>Speculative-Decoding-llama.cpp推测解码</title><link>https://Ethan-a2.github.io/blog/post/Speculative-Decoding-llama.cpp-tui-ce-jie-ma.html</link><description>
 
-- 生成 200 个 token（参数 -n 200），提示为：“重复这个句子10次：这是一个测试提示。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/Speculative-Decoding-llama.cpp-tui-ce-jie-ma.html</guid><pubDate>Sat, 04 Apr 2026 14:22:27 +0000</pubDate></item><item><title>Qwen3-0.6B量化实战--Q4_K_M究竟比Q8_0强在哪--附Pareto分析</title><link>https://Ethan-a2.github.io/post/Qwen3-0.6B-liang-hua-shi-zhan---Q4_K_M-jiu-jing-bi-Q8_0-qiang-zai-na----fu-Pareto-fen-xi.html</link><description>
+- 生成 200 个 token（参数 -n 200），提示为：“重复这个句子10次：这是一个测试提示。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/Speculative-Decoding-llama.cpp-tui-ce-jie-ma.html</guid><pubDate>Sat, 04 Apr 2026 14:22:27 +0000</pubDate></item><item><title>Qwen3-0.6B量化实战--Q4_K_M究竟比Q8_0强在哪--附Pareto分析</title><link>https://Ethan-a2.github.io/blog/post/Qwen3-0.6B-liang-hua-shi-zhan---Q4_K_M-jiu-jing-bi-Q8_0-qiang-zai-na----fu-Pareto-fen-xi.html</link><description>
 # 背景与测试环境
 
-随着大模型部署成本日益高涨，**量化（Quantization）** 成为优化推理性能的关键手段。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/Qwen3-0.6B-liang-hua-shi-zhan---Q4_K_M-jiu-jing-bi-Q8_0-qiang-zai-na----fu-Pareto-fen-xi.html</guid><pubDate>Sun, 29 Mar 2026 13:49:22 +0000</pubDate></item><item><title>高通NPU上使用llama.cpp运行LLM并支持trace可视化</title><link>https://Ethan-a2.github.io/post/gao-tong-NPU-shang-shi-yong-llama.cpp-yun-xing-LLM-bing-zhi-chi-trace-ke-shi-hua.html</link><description># 效果图
+随着大模型部署成本日益高涨，**量化（Quantization）** 成为优化推理性能的关键手段。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/Qwen3-0.6B-liang-hua-shi-zhan---Q4_K_M-jiu-jing-bi-Q8_0-qiang-zai-na----fu-Pareto-fen-xi.html</guid><pubDate>Sun, 29 Mar 2026 13:49:22 +0000</pubDate></item><item><title>高通NPU上使用llama.cpp运行LLM并支持trace可视化</title><link>https://Ethan-a2.github.io/blog/post/gao-tong-NPU-shang-shi-yong-llama.cpp-yun-xing-LLM-bing-zhi-chi-trace-ke-shi-hua.html</link><description># 效果图
 
 &lt;img width='1699' height='382' alt='Image' src='https://github.com/user-attachments/assets/fad69b23-5306-4978-9a6f-676b6be46550' /&gt;
 
@@ -110,7 +110,7 @@ adb pull /data/local/tmp/itrace_results
 
 # reference
 - [llama.cpp/docs/backend/hexagon/README.md at master · ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/docs/backend/hexagon/README.md)
-。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/gao-tong-NPU-shang-shi-yong-llama.cpp-yun-xing-LLM-bing-zhi-chi-trace-ke-shi-hua.html</guid><pubDate>Sun, 07 Dec 2025 02:39:43 +0000</pubDate></item><item><title>d2ltvm编译</title><link>https://Ethan-a2.github.io/post/d2ltvm-bian-yi.html</link><description>
+。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/gao-tong-NPU-shang-shi-yong-llama.cpp-yun-xing-LLM-bing-zhi-chi-trace-ke-shi-hua.html</guid><pubDate>Sun, 07 Dec 2025 02:39:43 +0000</pubDate></item><item><title>d2ltvm编译</title><link>https://Ethan-a2.github.io/blog/post/d2ltvm-bian-yi.html</link><description>
 # 环境
 - tvm-0.19 + numpy  &lt; 1.24
 - ubuntu 22.04
@@ -275,19 +275,19 @@ cmake --build . --parallel $(nproc)
 
 
 # 结论
-- 提供一种方式：不用手工写底层 CUDA/C++ 内核，而是通过编译器框架统一表达和优化算子/模型。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/d2ltvm-bian-yi.html</guid><pubDate>Sun, 07 Sep 2025 09:09:08 +0000</pubDate></item><item><title>小米15 NPU部署Llama-3.2-1B-Instruct</title><link>https://Ethan-a2.github.io/post/xiao-mi-15%20NPU-bu-shu-Llama-3.2-1B-Instruct.html</link><description># 准备
+- 提供一种方式：不用手工写底层 CUDA/C++ 内核，而是通过编译器框架统一表达和优化算子/模型。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/d2ltvm-bian-yi.html</guid><pubDate>Sun, 07 Sep 2025 09:09:08 +0000</pubDate></item><item><title>小米15 NPU部署Llama-3.2-1B-Instruct</title><link>https://Ethan-a2.github.io/blog/post/xiao-mi-15%20NPU-bu-shu-Llama-3.2-1B-Instruct.html</link><description># 准备
 - https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct
-- 显存至少需要12G。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/xiao-mi-15%20NPU-bu-shu-Llama-3.2-1B-Instruct.html</guid><pubDate>Sun, 03 Aug 2025 11:06:50 +0000</pubDate></item><item><title>HexagonNPU运行llama.cpp</title><link>https://Ethan-a2.github.io/post/HexagonNPU-yun-xing-llama.cpp.html</link><description>本文将详细介y绍如何在 Android 设备上，利用 `llama.cpp` 框架，结合高通神经网络处理单元 (QNN) 的硬件加速能力，部署并运行 Qwen 1.5 模型。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/HexagonNPU-yun-xing-llama.cpp.html</guid><pubDate>Tue, 22 Jul 2025 13:01:57 +0000</pubDate></item><item><title>Redmi K70 Pro运行Llama 1.1B</title><link>https://Ethan-a2.github.io/post/Redmi%20K70%20Pro-yun-xing-Llama%201.1B.html</link><description>
+- 显存至少需要12G。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/xiao-mi-15%20NPU-bu-shu-Llama-3.2-1B-Instruct.html</guid><pubDate>Sun, 03 Aug 2025 11:06:50 +0000</pubDate></item><item><title>HexagonNPU运行llama.cpp</title><link>https://Ethan-a2.github.io/blog/post/HexagonNPU-yun-xing-llama.cpp.html</link><description>本文将详细介y绍如何在 Android 设备上，利用 `llama.cpp` 框架，结合高通神经网络处理单元 (QNN) 的硬件加速能力，部署并运行 Qwen 1.5 模型。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/HexagonNPU-yun-xing-llama.cpp.html</guid><pubDate>Tue, 22 Jul 2025 13:01:57 +0000</pubDate></item><item><title>Redmi K70 Pro运行Llama 1.1B</title><link>https://Ethan-a2.github.io/blog/post/Redmi%20K70%20Pro-yun-xing-Llama%201.1B.html</link><description>
 # 前言
 
-随着移动设备硬件性能的飞速发展，将大型语言模型（LLM）部署到端侧设备上运行，实现低延迟、保护用户隐私的AI推理，正成为一个热门方向。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/Redmi%20K70%20Pro-yun-xing-Llama%201.1B.html</guid><pubDate>Thu, 17 Jul 2025 15:31:10 +0000</pubDate></item><item><title>小米15Ultra运行Qwen2-7B-Instruct</title><link>https://Ethan-a2.github.io/post/xiao-mi-15Ultra-yun-xing-Qwen2-7B-Instruct.html</link><description>
+随着移动设备硬件性能的飞速发展，将大型语言模型（LLM）部署到端侧设备上运行，实现低延迟、保护用户隐私的AI推理，正成为一个热门方向。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/Redmi%20K70%20Pro-yun-xing-Llama%201.1B.html</guid><pubDate>Thu, 17 Jul 2025 15:31:10 +0000</pubDate></item><item><title>小米15Ultra运行Qwen2-7B-Instruct</title><link>https://Ethan-a2.github.io/blog/post/xiao-mi-15Ultra-yun-xing-Qwen2-7B-Instruct.html</link><description>
 # environment
 - Operating System: Ubuntu 22.04
 - QNN SDK Version: 2.36.0.250627
 - devices：xiaomi 15Ultra 16G内存, Snapdragon® 8 Elite Mobile
 - genie-t2t-run
 
-- 注意，[Qwen2-7B-Instruct - Qualcomm AI Hub](https://aihub.qualcomm.com/models/qwen2_7b_instruct)目前只支持Snapdragon® 8 Elite Mobile。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/xiao-mi-15Ultra-yun-xing-Qwen2-7B-Instruct.html</guid><pubDate>Tue, 15 Jul 2025 14:03:37 +0000</pubDate></item><item><title>0713.Xiaomi14Ultra通过QNN运行Qwen</title><link>https://Ethan-a2.github.io/post/0713.Xiaomi14Ultra-tong-guo-QNN-yun-xing-Qwen.html</link><description>
+- 注意，[Qwen2-7B-Instruct - Qualcomm AI Hub](https://aihub.qualcomm.com/models/qwen2_7b_instruct)目前只支持Snapdragon® 8 Elite Mobile。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/xiao-mi-15Ultra-yun-xing-Qwen2-7B-Instruct.html</guid><pubDate>Tue, 15 Jul 2025 14:03:37 +0000</pubDate></item><item><title>0713.Xiaomi14Ultra通过QNN运行Qwen</title><link>https://Ethan-a2.github.io/blog/post/0713.Xiaomi14Ultra-tong-guo-QNN-yun-xing-Qwen.html</link><description>
 # environment
 - Operating System: Ubuntu 22.04
 - QNN SDK Version: 2.31.0.250130
@@ -365,7 +365,7 @@ Generate a title based on the above text.
 # references
 - [mllm/src/backends/qnn/README.md at main · UbiquitousLearning/mllm](https://github.com/UbiquitousLearning/mllm/blob/main/src/backends/qnn/README.md)
 - 
-。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/0713.Xiaomi14Ultra-tong-guo-QNN-yun-xing-Qwen.html</guid><pubDate>Sun, 13 Jul 2025 07:04:58 +0000</pubDate></item><item><title>Android K70 Pro llama.cpp Gemma-3n</title><link>https://Ethan-a2.github.io/post/Android%20K70%20Pro%20llama.cpp%20Gemma-3n.html</link><description># 设备
+。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/0713.Xiaomi14Ultra-tong-guo-QNN-yun-xing-Qwen.html</guid><pubDate>Sun, 13 Jul 2025 07:04:58 +0000</pubDate></item><item><title>Android K70 Pro llama.cpp Gemma-3n</title><link>https://Ethan-a2.github.io/blog/post/Android%20K70%20Pro%20llama.cpp%20Gemma-3n.html</link><description># 设备
 - K70 Pro Adreno 750 (Snapdragon 8 Gen 3)
 - NDK26
 - Adreno使用opencl编译
@@ -433,7 +433,7 @@ export LD_LIBRARY_PATH=/data/local/tmp/llama.cpp-opencl/lib:$LD_LIBRARY_PATH
 - [google-ai-edge](https://github.com/google-ai-edge)
 
 # issue
-- 用CPU基本与Google官方的gallery性能一致。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/Android%20K70%20Pro%20llama.cpp%20Gemma-3n.html</guid><pubDate>Sun, 29 Jun 2025 09:16:17 +0000</pubDate></item><item><title>minimind.inference</title><link>https://Ethan-a2.github.io/post/minimind.inference.html</link><description>
+- 用CPU基本与Google官方的gallery性能一致。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/Android%20K70%20Pro%20llama.cpp%20Gemma-3n.html</guid><pubDate>Sun, 29 Jun 2025 09:16:17 +0000</pubDate></item><item><title>minimind.inference</title><link>https://Ethan-a2.github.io/blog/post/minimind.inference.html</link><description>
 # download
 ```
 git clone https://github.com/jingyaogong/minimind.git
@@ -502,7 +502,7 @@ ollama run minimind2
 
 # reference
 [jingyaogong/minimind: 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!](https://github.com/jingyaogong/minimind#vllm%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E6%9C%8D%E5%8A%A1)
-。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/minimind.inference.html</guid><pubDate>Sun, 18 May 2025 04:21:37 +0000</pubDate></item><item><title>llama3.cpp基于NVIDIA1060进行图片对话</title><link>https://Ethan-a2.github.io/post/llama3.cpp-ji-yu-NVIDIA1060-jin-xing-tu-pian-dui-hua.html</link><description>
+。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/minimind.inference.html</guid><pubDate>Sun, 18 May 2025 04:21:37 +0000</pubDate></item><item><title>llama3.cpp基于NVIDIA1060进行图片对话</title><link>https://Ethan-a2.github.io/blog/post/llama3.cpp-ji-yu-NVIDIA1060-jin-xing-tu-pian-dui-hua.html</link><description>
 # 环境
 显卡：NVIDIA GeForce GTX 1060
 图片对话模型：SmolVLM-500M-Instruct
@@ -554,7 +554,7 @@ srv  update_slots: all slots are idle
 ```
 
 
-- 用浏览器打开网址，比如 192.168.3.100:1080，即可以进行图片对话。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/llama3.cpp-ji-yu-NVIDIA1060-jin-xing-tu-pian-dui-hua.html</guid><pubDate>Wed, 14 May 2025 15:00:48 +0000</pubDate></item><item><title>Qwen3性能评测-evalscope</title><link>https://Ethan-a2.github.io/post/Qwen3-xing-neng-ping-ce--evalscope.html</link><description>
+- 用浏览器打开网址，比如 192.168.3.100:1080，即可以进行图片对话。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/llama3.cpp-ji-yu-NVIDIA1060-jin-xing-tu-pian-dui-hua.html</guid><pubDate>Wed, 14 May 2025 15:00:48 +0000</pubDate></item><item><title>Qwen3性能评测-evalscope</title><link>https://Ethan-a2.github.io/blog/post/Qwen3-xing-neng-ping-ce--evalscope.html</link><description>
 
 
 
@@ -630,7 +630,7 @@ evalscope perf \
 - [Best Practices for Evaluating the Qwen3 Model | EvalScope](https://evalscope.readthedocs.io/en/latest/best_practice/qwen3.html)
 - [量化模型效果评估 - Qwen](https://qwen.readthedocs.io/zh-cn/latest/getting_started/quantization_benchmark.html)
 - [How Smart is Your AI? Full Assessment of IQ and EQ! | EvalScope](https://evalscope.readthedocs.io/en/latest/best_practice/iquiz.html)
-- 。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/Qwen3-xing-neng-ping-ce--evalscope.html</guid><pubDate>Sun, 11 May 2025 15:29:14 +0000</pubDate></item><item><title>MNN-LLM</title><link>https://Ethan-a2.github.io/post/MNN-LLM.html</link><description>
+- 。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/Qwen3-xing-neng-ping-ce--evalscope.html</guid><pubDate>Sun, 11 May 2025 15:29:14 +0000</pubDate></item><item><title>MNN-LLM</title><link>https://Ethan-a2.github.io/blog/post/MNN-LLM.html</link><description>
 
 ```
 git lfs install
@@ -669,9 +669,9 @@ make -j16
 
 
 # issue
-聊天效果很差。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/MNN-LLM.html</guid><pubDate>Sat, 10 May 2025 08:01:42 +0000</pubDate></item><item><title>MNN-demo</title><link>https://Ethan-a2.github.io/post/MNN-demo.html</link><description>
+聊天效果很差。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/MNN-LLM.html</guid><pubDate>Sat, 10 May 2025 08:01:42 +0000</pubDate></item><item><title>MNN-demo</title><link>https://Ethan-a2.github.io/blog/post/MNN-demo.html</link><description>
 # 实例分割
-转换时需要添加--keepInputFormat false参数，转为HCHW的格式。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/MNN-demo.html</guid><pubDate>Sat, 10 May 2025 05:29:34 +0000</pubDate></item><item><title>MNN multiPose demo</title><link>https://Ethan-a2.github.io/post/MNN%20multiPose%20demo.html</link><description>
+转换时需要添加--keepInputFormat false参数，转为HCHW的格式。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/MNN-demo.html</guid><pubDate>Sat, 10 May 2025 05:29:34 +0000</pubDate></item><item><title>MNN multiPose demo</title><link>https://Ethan-a2.github.io/blog/post/MNN%20multiPose%20demo.html</link><description>
 [MNN/demo/exec at master · Ethan-a2/MNN](https://github.com/Ethan-a2/MNN/tree/master/demo/exec)
 
 # build
@@ -720,7 +720,7 @@ main, 405, cost time: 0.001000 ms
 
 
 # 解决办法一
-将输入的图像转换为tf模块的NHWC的格式。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/MNN%20multiPose%20demo.html</guid><pubDate>Sat, 10 May 2025 02:48:11 +0000</pubDate></item><item><title>docker安装浏览器</title><link>https://Ethan-a2.github.io/post/docker-an-zhuang-liu-lan-qi.html</link><description>docker-compose.yml:
+将输入的图像转换为tf模块的NHWC的格式。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/MNN%20multiPose%20demo.html</guid><pubDate>Sat, 10 May 2025 02:48:11 +0000</pubDate></item><item><title>docker安装浏览器</title><link>https://Ethan-a2.github.io/blog/post/docker-an-zhuang-liu-lan-qi.html</link><description>docker-compose.yml:
 ```
 services:
   firefox:
@@ -737,18 +737,18 @@ services:
 
 # references
 - https://github.com/jlesage/docker-firefox
-- 。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/docker-an-zhuang-liu-lan-qi.html</guid><pubDate>Sat, 03 May 2025 06:19:22 +0000</pubDate></item><item><title>ipv6内网穿透</title><link>https://Ethan-a2.github.io/post/ipv6-nei-wang-chuan-tou.html</link><description>
+- 。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/docker-an-zhuang-liu-lan-qi.html</guid><pubDate>Sat, 03 May 2025 06:19:22 +0000</pubDate></item><item><title>ipv6内网穿透</title><link>https://Ethan-a2.github.io/blog/post/ipv6-nei-wang-chuan-tou.html</link><description>
 # 步骤
-1. 光猫改桥接。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/ipv6-nei-wang-chuan-tou.html</guid><pubDate>Sat, 03 May 2025 03:36:05 +0000</pubDate></item><item><title>国内github加速</title><link>https://Ethan-a2.github.io/post/guo-nei-github-jia-su.html</link><description>微软应用商店下载Watt ToolKit
+1. 光猫改桥接。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/ipv6-nei-wang-chuan-tou.html</guid><pubDate>Sat, 03 May 2025 03:36:05 +0000</pubDate></item><item><title>国内github加速</title><link>https://Ethan-a2.github.io/blog/post/guo-nei-github-jia-su.html</link><description>微软应用商店下载Watt ToolKit
 [Watt Toolkit - Free download and install on Windows | Microsoft Store](https://apps.microsoft.com/detail/9mtcfhs560ng?hl=en-US&amp;gl=CN)
 
 ![Image](https://github.com/user-attachments/assets/f980382b-eba6-43f4-a747-19fda38544b5)
 
-。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/guo-nei-github-jia-su.html</guid><pubDate>Wed, 30 Apr 2025 21:51:08 +0000</pubDate></item><item><title>github快速搭建博客</title><link>https://Ethan-a2.github.io/post/github-kuai-su-da-jian-bo-ke.html</link><description>
+。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/guo-nei-github-jia-su.html</guid><pubDate>Wed, 30 Apr 2025 21:51:08 +0000</pubDate></item><item><title>github快速搭建博客</title><link>https://Ethan-a2.github.io/blog/post/github-kuai-su-da-jian-bo-ke.html</link><description>
 
 # 注意
 - 提issue的时候必须加一个label
 
 
 # issue
-- 仓库名为xxx.github.io。</description><guid isPermaLink="true">https://Ethan-a2.github.io/post/github-kuai-su-da-jian-bo-ke.html</guid><pubDate>Wed, 30 Apr 2025 21:48:54 +0000</pubDate></item></channel></rss>
+- 仓库名为xxx.github.io。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/github-kuai-su-da-jian-bo-ke.html</guid><pubDate>Wed, 30 Apr 2025 21:48:54 +0000</pubDate></item></channel></rss>
