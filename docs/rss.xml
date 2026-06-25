@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brue Leo's Blog</title><link>https://Ethan-a2.github.io/blog</link><description>Freedom is not free.</description><copyright>Brue Leo's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/61342241?v=4&amp;size=64</url><title>avatar</title><link>https://Ethan-a2.github.io/blog</link></image><lastBuildDate>Wed, 10 Jun 2026 18:30:43 +0000</lastBuildDate><managingEditor>Brue Leo's Blog</managingEditor><ttl>60</ttl><webMaster>Brue Leo's Blog</webMaster><item><title>pot-desktop字典支持Ubuntu26.04</title><link>https://Ethan-a2.github.io/blog/post/pot-desktop-zi-dian-zhi-chi-Ubuntu26.04.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brue Leo's Blog</title><link>https://Ethan-a2.github.io/blog</link><description>Freedom is not free.</description><copyright>Brue Leo's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/61342241?v=4&amp;size=64</url><title>avatar</title><link>https://Ethan-a2.github.io/blog</link></image><lastBuildDate>Thu, 25 Jun 2026 12:31:38 +0000</lastBuildDate><managingEditor>Brue Leo's Blog</managingEditor><ttl>60</ttl><webMaster>Brue Leo's Blog</webMaster><item><title>SmolLM2-360M移动端Qualcomm-Android的性能实测与深度剖析</title><link>https://Ethan-a2.github.io/blog/post/SmolLM2-360M-yi-dong-duan-Qualcomm-Android-de-xing-neng-shi-ce-yu-shen-du-pou-xi.html</link><description>&lt;!-- obsidian --&gt;&lt;h1 data-heading='测试环境与配置 (Test Environment)'&gt;测试环境与配置 (Test Environment)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;模型: SmolLM2-360M (超轻量级 LLM)&lt;/li&gt;
+&lt;li&gt;运行平台: Android 设备 (基于 Qualcomm Snapdragon 平台)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 data-heading='核心数据对比分析 (Core Data Comparison)'&gt;核心数据对比分析 (Core Data Comparison)&lt;/h1&gt;
+
+指标维度 | 数据组 1: CPU/Host 推理 (0层 Offload) | 数据组 2: HTP 卸载 (32层 Offload) | 数据组 3: 只有2层
+-- | -- | -- | --
+推理框架 | llama.cpp | llama.cpp | QNN Genie
+层数 | 32 | 32 | 2
+Prompt Tokens | 19 (测试片段) | 19 (测试片段) | 698 (原始输入规模)
+Gen Tokens | 458 | 177 | 100 (生成规模)
+Prompt Eval Rate | 240.23 toks/sec | 150.10 toks/sec | 66666.66 toks/sec
+Token Generation Rate | 134.60 toks/sec | 40.01 toks/sec | 800.64 toks/sec
+首字延迟 (TTFT) | 79 ms | 126 ms | 11.1 ms
+Total Time | 4749.14 ms | 9791.92 ms | -
+Unaccounted Time % | 26.3 % | 53.4 % | -
+HTP0 Compute Mem | 0 MiB | 32.26 MiB | 0 MiB
+Host Memory Usage | 719 MiB | 747 MiB | -
+
+
+&lt;ul&gt;
+&lt;li&gt;备注：数组3只有2层，仅图一乐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 data-heading='深度技术洞察 (Deep Dive Analysis)'&gt;深度技术洞察 (Deep Dive Analysis)&lt;/h1&gt;
+&lt;h2 data-heading='A. Eval 速度断崖式下跌'&gt;A. Eval 速度断崖式下跌&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;第一组 (134.60 t/s)：表现正常，说明此时计算资源（CPU/Hexagon）调度顺畅。</description><guid isPermaLink="true">https://Ethan-a2.github.io/blog/post/SmolLM2-360M-yi-dong-duan-Qualcomm-Android-de-xing-neng-shi-ce-yu-shen-du-pou-xi.html</guid><pubDate>Thu, 25 Jun 2026 12:31:12 +0000</pubDate></item><item><title>pot-desktop字典支持Ubuntu26.04</title><link>https://Ethan-a2.github.io/blog/post/pot-desktop-zi-dian-zhi-chi-Ubuntu26.04.html</link><description>
 # release
 - https://github.com/Ethan-a2/saladict/releases
 
